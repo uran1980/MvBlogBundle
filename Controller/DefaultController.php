@@ -18,7 +18,7 @@ use Symfony\Component\HttpKernel\Exception\HttpException;
 /**
  * DefaultController controller.
  *
- * @Route("/blog")
+ * @Route("/")
  */
 class DefaultController extends Controller
 {
