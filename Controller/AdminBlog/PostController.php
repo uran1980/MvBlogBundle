@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\Controller\AdminBlog;
+namespace tabernicola\BlogBundle\Controller\AdminBlog;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;

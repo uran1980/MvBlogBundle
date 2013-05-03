@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\DependencyInjection;
+namespace tabernicola\BlogBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

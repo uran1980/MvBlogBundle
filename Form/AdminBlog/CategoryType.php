@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\Form\AdminBlog;
+namespace tabernicola\BlogBundle\Form\AdminBlog;
 
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\FormBuilderInterface;

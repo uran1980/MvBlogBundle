@@ -1,5 +1,5 @@
 <?php
-namespace Mv\BlogBundle\Tests\Validator\Constraints;
+namespace tabernicola\BlogBundle\Tests\Validator\Constraints;
 
 use Mv\BlogBundle\Validator\Constraints\ClientIp;
 use Mv\BlogBundle\Validator\Constraints\ClientIpValidator;

@@ -4,7 +4,7 @@
  *
  * @author michael
  */
-namespace Mv\BlogBundle\Validator\Constraints;
+namespace tabernicola\BlogBundle\Validator\Constraints;
 
 use Symfony\Component\Validator\Constraint;
 

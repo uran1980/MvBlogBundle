@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\DependencyInjection;
+namespace tabernicola\BlogBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

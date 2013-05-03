@@ -1,5 +1,5 @@
 <?php
-namespace Mv\BlogBundle\Twig;
+namespace tabernicola\BlogBundle\Twig;
 
 class ArrayIntersectExtension extends \Twig_Extension
 {

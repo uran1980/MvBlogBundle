@@ -1,5 +1,5 @@
 <?php
-namespace Mv\BlogBundle\Tests;
+namespace tabernicola\BlogBundle\Tests;
 
 use Symfony\Component\HttpKernel\Kernel;
 use Symfony\Component\Config\Loader\LoaderInterface;

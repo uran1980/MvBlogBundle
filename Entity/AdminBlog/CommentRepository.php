@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\Entity\AdminBlog;
+namespace tabernicola\BlogBundle\Entity\AdminBlog;
 
 use Doctrine\ORM\EntityRepository;
 use Doctrine\Common\Collections\Criteria;

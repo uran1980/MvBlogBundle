@@ -1,6 +1,6 @@
 <?php
 
-namespace Mv\BlogBundle\Tests\Controller;
+namespace tabernicola\BlogBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 use Mv\BlogBundle\Tests\AppKernel;
