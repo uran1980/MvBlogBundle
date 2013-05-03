@@ -1,20 +1,15 @@
 {
-    "name": "mv/mv-blog-bundle",
+    "name": "tabernicola/mv-blog-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 Blog Bundle",
     "keywords": ["blog"],
-    "homepage": "https://github.com/phpmike/MvBlogBundle",
+    "homepage": "https://github.com/tabernicola/MvBlogBundle",
     "license": "GPL",
     "authors": [
-        {
-            "name": "Michaël VEROUX",
-            "homepage": "https://github.com/phpmike"
-        },
-        {
-            "name": "Jarrett Croll",
-            "homepage": "https://github.com/jcroll",
-            "role": "Translator"
-        }
+	{
+		"name": "Tabernicola",
+		"homepage": "https://github.com/tabernicola"
+	}
     ],
     "require": {
         "php": ">=5.3.3",
@@ -45,8 +40,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Mv\\BlogBundle": ""
+            "tabernicola\\BlogBundle": ""
         }
     },
-    "target-dir" : "Mv/BlogBundle"
+    "target-dir" : "tabernbicola/BlogBundle"
 }
