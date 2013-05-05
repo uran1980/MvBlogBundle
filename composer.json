@@ -7,6 +7,15 @@
     "license": "GPL",
     "authors": [
 	{
+	    "name": "Michaël VEROUX",
+            "homepage": "https://github.com/phpmike"
+        },
+        {
+            "name": "Jarrett Croll",
+            "homepage": "https://github.com/jcroll",
+            "role": "Translator"
+        },
+	{
 		"name": "Tabernicola",
 		"homepage": "https://github.com/tabernicola"
 	}
